@@ -1,0 +1,102 @@
+/* Палитра*/
+:root {
+    --primary-text-color: #757575;
+    --secondary-text-color: #212121;
+    --accent: #2196F3;
+    --heading-text-color: #FFFFFF;
+}
+
+.list {
+    list-style: none;
+}
+
+body {
+    background: #FFFFFF;
+    color: var(--primary-text-color);
+}
+
+.logo {
+    color: #000000;
+}
+
+.logo-first-word {
+    color: var(--accent);
+}
+
+.site-nav a {
+    color: var(--secondary-text-color);
+}
+
+.auth-nav a {
+    color: var(--primary-text-color);
+}
+
+.site-nav a:hover,
+.site-nav a:focus,
+.auth-nav a:hover,
+.auth-nav a:focus {
+    color: var(--accent);
+}
+
+.hero-section-header {
+    color: var(--heading-text-color);
+}
+
+.hero-section-button {
+    color: var(--heading-text-color);
+    background: var(--accent);
+}
+
+.features-section-list h3 {
+    color: var(--secondary-text-color);
+}
+
+.work-section-header {
+    color: var(--secondary-text-color);
+}
+
+.work-section-list h3 {
+    color: var(--heading-text-color);
+}
+
+.team-section {
+    background: #F5F4FA;
+}
+
+.team-section-list li {
+    background: #FFFFFF;
+}
+
+.team-section-header,
+.team-section-list h3 {
+    color: var(--secondary-text-color);
+}
+
+.team-section-list p {
+    color: var(--primary-text-color);
+}
+
+.clients-section-header {
+    color: var(--heading-text-color);
+}
+
+.footer {
+    background: #2F303A;
+}
+
+.footer-logo,
+.footer-location {
+    color: var(--heading-text-color);
+}
+
+.footer-contact {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.join-us-block p {
+    color: var(--heading-text-color);
+}
+
+.footer-copyright {
+    color: rgba(255, 255, 255, 0.4);
+}
