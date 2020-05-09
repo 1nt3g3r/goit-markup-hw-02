@@ -26,7 +26,7 @@ body {
     background-color: #FFFFFF;
     color: var(--primary-text-color);
 
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
     font-size: 14px;
     line-height: 1.71;
     letter-spacing: 0.03em;
@@ -35,7 +35,7 @@ body {
 .logo {
     color: #000000;
     
-    font-family: Raleway;
+    font-family: Raleway, sans-serif;
     font-weight: 700;
     font-size: 26px;
     line-height: 1.19;
@@ -56,7 +56,7 @@ body {
 
 .site-nav a,
 .auth-nav a {
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
     font-weight: 500;
     font-size: 14px;
     line-height: 1.14;
@@ -74,7 +74,7 @@ body {
     color: var(--heading-text-color);
     background-color: #aaaaaa;
 
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
     font-weight: 900;
     font-size: 44px;
     line-height: 1.36;
@@ -87,7 +87,7 @@ body {
     color: var(--heading-text-color);
     background-color: var(--accent);
 
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
     font-weight: 700;
     font-size: 16px;
     line-height: 1.88;
@@ -96,7 +96,7 @@ body {
 .features-section-list h3 {
     color: var(--secondary-text-color);
 
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
     font-weight: 700;
     font-size: 14px;
     line-height: 1.14;
@@ -112,7 +112,7 @@ body {
     color: var(--heading-text-color);
     background-color: rgba(47, 48, 58, 0.8);
 
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
     font-weight: 700;
     font-size: 14px;
     line-height: 1.14;
@@ -136,14 +136,14 @@ body {
 .team-section-list p {
     color: var(--primary-text-color);
 
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
     font-size: 16px;
     line-height: 1.19;
     letter-spacing: 0.03em;
 }
 
 .team-section-list h3 {
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.19;
@@ -168,7 +168,7 @@ body {
 }
 
 .footer-location {
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
     font-size: 14px;
     line-height: 1.71;
     letter-spacing: 0.03em;
@@ -177,7 +177,7 @@ body {
 .footer-contact {
     color: rgba(255, 255, 255, 0.6);
 
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
     font-size: 14px;
     line-height: 1.71;
     letter-spacing: 0.03em;
@@ -186,7 +186,7 @@ body {
 .join-us-block p {
     color: var(--heading-text-color);
 
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
     font-weight: 700;
     font-size: 14px;
     line-height: 1.14;
@@ -197,7 +197,7 @@ body {
 .footer-copyright {
     color: rgba(255, 255, 255, 0.4);
 
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
     font-size: 12px;
     line-height: 2;
     text-align: center;
@@ -208,7 +208,7 @@ body {
     color: var(--secondary-text-color);
     background-color: #f5f4fa;
 
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.63;
@@ -229,7 +229,7 @@ body {
 .portfolio-section-card-title {
     color: var(--secondary-text-color);
 
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 2;
@@ -240,7 +240,7 @@ body {
 .portfolio-section-card-category {
     color: var(--primary-text-color);
 
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
     font-size: 16px;
     line-height: 1.88;
     letter-spacing: 0.03em;
@@ -249,14 +249,14 @@ body {
 .portfolio-section-card-description {
     color: #ffffff;
 
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
     font-size: 18px;
     line-height: 1.56;
     letter-spacing: 0.03em;
 }
 
 h2 {
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.17;
