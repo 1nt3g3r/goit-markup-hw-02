@@ -11,7 +11,7 @@
 }
 
 .site-nav a,
-.auth-nav a,
+.contacts-nav a,
 .hero-section a,
 .footer a,
 .clients-section a {
@@ -50,12 +50,12 @@ body {
     color: var(--secondary-text-color);
 }
 
-.auth-nav a {
+.contacts-nav a {
     color: var(--primary-text-color);
 }
 
 .site-nav a,
-.auth-nav a {
+.contacts-nav a {
     font-family: Roboto, sans-serif;
     font-weight: 500;
     font-size: 14px;
@@ -65,8 +65,8 @@ body {
 
 .site-nav a:hover,
 .site-nav a:focus,
-.auth-nav a:hover,
-.auth-nav a:focus,
+.contacts-nav a:hover,
+.contacts-nav a:focus,
 .footer-contact:hover,
 .footer-contact:focus {
     color: var(--accent);
